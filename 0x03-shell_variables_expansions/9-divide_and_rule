@@ -1,2 +1,2 @@
 #!/bin/bash
-expr 42784 / 32
+let POWER=42784 DIVIDE=32 result=POWER/DIVIDE
